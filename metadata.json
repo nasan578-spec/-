@@ -1,0 +1,6 @@
+{
+  "name": "ระบบสำรวจ จปฐ. ม.2 ต.คลองปราบ อ.บ้านนาสาร จ.สุราษฎร์ธานี",
+  "description": "ระบบสำรวจและบันทึกข้อมูล จปฐ. ประชากร หมู่ที่ 2 ตำบลคลองปราบ อำเภอบ้านนาสาร จังหวัดสุราษฎร์ธานี ออกแบบโทนน้ำเงินเข้ม-เหลือง-แดง สไตล์ Glassmorphism ทันสมัย รองรับมือถือและ Google Sheets",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
